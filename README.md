@@ -1,3 +1,3 @@
 # Todo Server
 
-- Backend server for Todo Application
+- Backend server for Todo App
