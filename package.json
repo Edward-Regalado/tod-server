@@ -1,0 +1,19 @@
+{
+  "name": "todo-server",
+  "version": "1.0.0",
+  "description": "backend server for todo application",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Edward-Regalado/tod-server.git"
+  },
+  "author": "Edward Regalado",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Edward-Regalado/tod-server/issues"
+  },
+  "homepage": "https://github.com/Edward-Regalado/tod-server#readme"
+}
